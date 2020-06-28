@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>JavaScript, Example 1</title>
+</head>
+<body bgcolor="white"><center>
+<h1 style="color:darkblue;font-size:40px;">Modified the page</h1>
+	<script>
+		document.bgColor = "lightblue";
+	</script>
+</body>
+</html>
