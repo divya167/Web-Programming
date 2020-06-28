@@ -1,0 +1,30 @@
+p1
+   {
+	Font: Arial
+	Color: Red
+	Size: 40 px
+   }
+
+ p2
+   {
+      	 Font: Times New Roman
+      	 Left margin : 50 px
+       	 Style:  Italic
+   }
+
+ p3
+   {
+       Font: Courier
+       Style: Bold
+       Color: Blue
+   }
+
+ #user_define1
+   {
+       Text alignment : Center
+   }
+
+  .user_define2
+   {
+       Text alignment : Right
+   }
